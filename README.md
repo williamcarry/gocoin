@@ -1,3 +1,5 @@
+比特币的都有了，钱包，交易，客户端，可以部署运行。
+
 # About Gocoin
 
 **Gocoin** is a full **Bitcoin** solution written in Go language (golang).
